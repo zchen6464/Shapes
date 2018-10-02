@@ -6,7 +6,7 @@ public class Runner {
 	 Shape shape1 = new Rectangle(1,2);
 	 Shape shape2 = new ETriangle(5);
 	 Shape shape3 = new Circle(10);
-	 Shapep shape4 = new Square(10);
+	 Shape shape4 = new Square(10);
 
 	 Shape[] shapes = {shape1, shape2, shape3};
 
